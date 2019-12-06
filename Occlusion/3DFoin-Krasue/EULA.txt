@@ -1,0 +1,22 @@
+End User License Agreement (EULA)
+
+YOU SHOULD CAREFULLY READ THE FOLLOWING TERMS AND CONDITIONS BEFORE USING THIS PRODUCT.
+
+THIS IS A LEGAL AGREEMENT BETWEEN YOU AND 3DFOIN STUDIO. IF YOU DO NOT ACCEPT THESE TERMS AND CONDITIONS, YOU SHOULD NOT USE THIS PRODUCT. BY PURCHASING, DOWNLOADING, COPYING, OR OTHERWISE USING THE PRODUCT, YOU ACKNOWLEDGE THAT YOU HAVE READ THESE TERMS AND CONDITIONS, UNDERSTAND THEM, AND AGREE TO BE BOUND BY THEM. IF YOU DO NOT AGREE TO THESE TERMS AND CONDITIONS, YOU SHOULD NOT USE THIS PRODUCT.
+
+Simple Description:
+
+You can use or modify this product according to your need for your game. But you are not permitted to market, distribute, give, transfer, sell or sublicense the product in any format with the exception of a video game. In the game, the product must be compiled and protected with resource encryption, so it exist only within the program code and may not be rebuilt from the compiled binary. You don't own the content. The product are only licensed to you, they are not sold to you. All content is still copyright and owned by 3dfoin Studio.
+
+End User License Terms:
+
+
+1. SINGLE COPY SOFTWARE LICENSE: This media is copyrighted and protected by law and international treaty. You may download this media through a web browser or copy it from 3dfoin Studio approved distributed media onto a single computer for use in the creation of one released software product, unless specifically licensed to do otherwise by 3dfoin Studio. This is a license, not a transfer of title, and you may not (a) create derivative works based on this media for retail sale or distribution by any means other than as provided by this argreement;(b) transfer this media or the documentation in whole or in part to another person without 3dfoin Studio permission;(c) remove any copyright or other 3dfoin Studio proprietary notices; (g) transfer this media to another person. You agree to prevent any copying of this media that you download for your use from the 3dfoin Studio web site.
+
+2. OWNERSHIP: This product and all of its content is proprietary material of 3dfoin Studio and may not be copied, reproduced, published, uploaded, posted, transmitted, or distributed in any way, without 3dfoin Studio prior written permission.
+
+3. TERMINATION OF THIS LICENSE: 3dfoin Studio may terminate this license at any time if you are in breach of the terms and conditions of use. Upon such termination you must and agree to immediately destroy all copies of this media and all of its accompanying documentation.
+
+4. DISCLAIMER AND WARRANTY: 3dfoin Studio provides the products related to this agreement "AS IS" without warranty of any kind. You assume total responsibility and risk for your use of this product.
+
+5. CHOICE OF LAW: This agreement will be governed by the laws of the State of Washington, U.S.A., excluding its conflict of law provisions. Unless otherwise agreed in writing, all disputes relating to this Agreement shall be subject to final and binding arbitration in King County, Bellevue, with the losing party paying all costs of arbitration.

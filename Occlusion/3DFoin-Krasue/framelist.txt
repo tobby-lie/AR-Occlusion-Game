@@ -1,0 +1,11 @@
+3DFoin
+Krasue model 
+2575 Tris
+
+Fly 		0 - 59
+Idle1 		61 - 360
+Idle2		361 - 670
+Attack1		672 - 729
+Attack2		730 - 788
+Hit		790 - 839
+Death		841 - 909
