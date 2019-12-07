@@ -348,7 +348,7 @@
 				INFOPLIST_FILE = Occlusion/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 13.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.azamsharp.Occlusion;
+				PRODUCT_BUNDLE_IDENTIFIER = com.tobbylie.Occlusion;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_OBJC_BRIDGING_HEADER = "Occlusion/Occlusion-Bridging-Header.h";
 				SWIFT_VERSION = 5.0;
